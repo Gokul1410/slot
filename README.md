@@ -94,54 +94,61 @@ Execute the program using runserver command.
         </table>
     </br>
     <br>
-        <table align="center" cellspacing="4" cellsspadding="8" border="4">
+        <table align="center" cellspacing="10" cellsspadding="5" border="2">
 
             <tr>
+                <th align = "center"></th>
                 <th>S.No</th>
-                <th>Subject Code</th>
+                <th align = "center">Subject Code</th>
                 <th>Subject Name</th>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>1.</td>
-                <td>19AI301C</td>
+                <td align = "center">19AI301C</td>
                 <td>Python Linear Algebra</td>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>2.</td>
-                <td>19AI410</td>
+                <td align = "center">19AI410</td>
                 <td>Introduction to Machine Learning</td>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>3.</td>
-                <td>19AI414</td>
+                <td align = "center">19AI414</td>
                 <td>Fundamentals of Web Application Development</td>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>4.</td>
-                <td>19CS406</td>
+                <td align = "center">19CS406</td>
                 <td>Computer Networks</td>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>5.</td>
-                <td>19EN101</td>
+                <td align = "center">19EN101</td>
                 <td>Communicative English</td>
             </tr>
             <tr>
+                <td align = "center"></td>
                 <td>6.</td>
-                <td>19EY701</td>
+                <td align = "center">19EY701</td>
                 <td>Soft Skills</td>
             </tr>
         </table>
     </br>
     </body>
 </html>
+
 ```
 
 
 ## OUTPUT
 
-![Screenshot 2024-03-14 203137](https://github.com/Gokul1410/slot/assets/153058321/13e36550-fb9b-487d-b65f-c2bf1bdf3f00)
-
+![Screenshot 2024-03-14 204457](https://github.com/Gokul1410/slot/assets/153058321/405ec7e0-3b0f-4546-9478-0b0c63099fc5)
 
 
 ## RESULT
